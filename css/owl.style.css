@@ -14,7 +14,7 @@
 .owl-nav button.owl-next {
     right: 0;
 }
-
+/* 
 .owl-dots {
     text-align: center;
     padding-top: 15px;
@@ -35,7 +35,7 @@
 
 .owl-dots button.owl-dot:focus {
     outline: none;
-}
+} */
 
 .owl-nav button {
     position: absolute;

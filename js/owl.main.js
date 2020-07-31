@@ -2,7 +2,7 @@ jQuery("#carousel").owlCarousel({
     autoplay: true,
     lazyLoad: true,
     rewind: true,
-    margin: 0.5,
+    margin: 10,
      /*
     animateOut: 'fadeOut',
     animateIn: 'fadeIn',

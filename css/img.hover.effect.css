@@ -47,9 +47,6 @@ body {
 
 
 
-
-
-
 .img-wrapper .grid {
 	position: relative;
 	margin: 0 auto;
@@ -72,6 +69,7 @@ body {
 	background: #3085a3;
 	text-align: center;
 	cursor: pointer;
+	display: block;
 }
 
 .img-wrapper .grid figure img {
